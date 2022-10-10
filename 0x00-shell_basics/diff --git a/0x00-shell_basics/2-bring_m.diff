@@ -1,0 +1,7 @@
+diff --git a/0x00-shell_basics/2-bring_me_home b/0x00-shell_basics/2-bring_me_home
+--- 0x00-shell_basics/2-bring_me_home
++++ 0x00-shell_basics/2-bring_me_home
+@@ -1,2 +1,2 @@
+ #!/bin/bash
++cd ~
+
